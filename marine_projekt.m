@@ -12,7 +12,7 @@ speed = windspeed_hourly.ws_hourly;
 %Siemens Gamesa 10 MW Wind Turbine with 192 m rotor blades
 
 rho = 1.2041;
-r = 100; % rotor blade in m
+r = 192; % rotor blade in m
 A = r^2*pi; % in m²
 pi = pi;
 cpmax = 0.5926;
